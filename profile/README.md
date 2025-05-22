@@ -43,3 +43,5 @@ Our team’s the heartbeat of Creative X—here’s who’s making it happen:
 
 - **Breakfast Fuel**: Coffee’s king, but we’ve got a pancake guy and a cereal stan. Keeps the creativity flowing!
 - **Quirk**: Our Slack’s 50% memes, 50% mockups—balance is everything.
+
+![CreativeX](images/image.png)
