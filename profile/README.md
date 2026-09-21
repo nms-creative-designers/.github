@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Welcome to Creative X! 🙋‍♀️
+# Welcome to Creatives! 🙋‍♀️
 
 We’re **Creative Designers**, a tight-knit crew of UI/UX designers and front-end developers crafting slick, user-friendly digital experiences. Think pixel-perfect designs and code that pops—we’re all about blending form and function.
 
