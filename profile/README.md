@@ -18,7 +18,7 @@ We’re **Creative Designers**, a tight-knit crew of UI/UX designers and front-e
 Love design or code? Here’s how you can roll with us:
 
 - **Contribute**: Fork our repos, tweak designs, or sling some CSS/JS—PRs welcome!
-- **Chat**: Hit us up in issues or [email us](mailto:elmer@nms.ph) with ideas.
+- **Chat**: Hit us up in issues or [email us](mailto:marj@nms.ph) with ideas.
 - **Stay Open**: We dig collaboration—bring your A-game and respect the vibe.
 
 ## 👩‍💻 Resources & Goodies
